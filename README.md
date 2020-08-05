@@ -6,4 +6,6 @@ Once you make a search in Yandex Wordstat, you can run this script from the brow
 
 You can also convert this script into a bookmarket to use it from the bookmarks toolbar in your browser.
 
+---
+
 **Last update:** 04.08.2020
